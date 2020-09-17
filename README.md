@@ -1,2 +1,2 @@
-# reinforcement-learning
-Contains the reinforcement learning model that will power the robot's driving decisions
+# machine-learning
+Contains the machine learning model(s) that will power the robot's driving decisions
